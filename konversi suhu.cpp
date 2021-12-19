@@ -24,6 +24,7 @@ int main(){
 		
 	switch (pilihan){
 		//pilihan 1
+			
 		case 1 :
 			
 			cout << " Masukkan suhu = " ;
@@ -38,6 +39,7 @@ int main(){
 			
 		
 		// pilihan 2
+			
 		case 2 :
 			clear();
 			cout << " Masukkan suhu = " ;
@@ -50,6 +52,8 @@ int main(){
  	 		getch();
  	 		break;
 		
+		// piliham 3
+			
 		case 3 :
 		clear();
 			cout << " Masukkan suhu = " ;
@@ -61,6 +65,8 @@ int main(){
  	 	
 		  	getch();	
 			break;
+		
+		// pilihan 4
 			
 		case 4 :
 			
